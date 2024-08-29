@@ -1,6 +1,4 @@
-
-```markdown
-# FoodPunk
+# FoodPunk Mobile Application code
 
 ## Getting Started
 
