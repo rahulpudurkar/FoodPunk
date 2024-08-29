@@ -1,4 +1,4 @@
-# FoodPunk Mobile Application code
+# FoodPunk Mobile Application
 
 ## Getting Started
 
