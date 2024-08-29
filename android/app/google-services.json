@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "318757443799",
+    "firebase_url": "https://movielistswiftfirebase-default-rtdb.firebaseio.com",
+    "project_id": "movielistswiftfirebase",
+    "storage_bucket": "movielistswiftfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318757443799:android:0ec13710bd709ea00fb892",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIwSHXXboVyrpPcayk3GsEN3DWpjXmXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
