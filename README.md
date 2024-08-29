@@ -36,13 +36,6 @@
 ## Project Structure
 
 - **/lib**: Contains the main Flutter application code.
-  - **/screens**: UI screens for the application.
-  - **/widgets**: Reusable widgets across the application.
-  - **/models**: Data models representing the application's data structure.
-  - **/services**: Firebase service integrations for authentication, database, etc.
-  - **/providers**: State management logic (using Provider, Riverpod, or Bloc).
-  - **/utils**: Utility classes and helper functions.
-
 - **/assets**: Contains images, fonts, and other assets used in the app.
 - **/android**: Android-specific files and configurations.
 - **/ios**: iOS-specific files and configurations.
