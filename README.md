@@ -1,5 +1,5 @@
 # FoodPunk Mobile Application
-![](banner.png)
+![](banner_img.png)
  
 
 This is a food ordering & delivery application built with a flutter framework and firebase real-time database. 
